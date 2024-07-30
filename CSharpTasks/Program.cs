@@ -69,7 +69,7 @@
             }
             #endregion
 
-            #region check if a rectangle is a square.
+            #region Task4 check if a rectangle is a square.
             Console.Write("Enter the length of square : ");
             double length =double.Parse(Console.ReadLine());
 
